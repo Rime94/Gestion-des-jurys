@@ -1,4 +1,5 @@
-Ce projet est un module pédagogique personnalisé développé sous Odoo 17. Pour faciliter la gestion administrative des jurys d'examen et le suivi des décisions académiques.
+ RJILI RILME 5IIR G2
+ Ce projet est un module pédagogique personnalisé développé sous Odoo 17. Pour faciliter la gestion administrative des jurys d'examen et le suivi des décisions académiques.
 
 Le module permet de centraliser les informations relatives aux sessions de jury, d'assigner des responsables et d'enregistrer les décisions finales (ex: Validé, Refusé) de manière structurée.
 
